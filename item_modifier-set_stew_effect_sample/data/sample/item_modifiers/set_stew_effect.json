@@ -1,0 +1,9 @@
+{
+  "function": "minecraft:set_stew_effect",
+  "effects": [
+    {
+      "type": "minecraft:glowing",
+      "duration": 5
+    }
+  ]
+}
