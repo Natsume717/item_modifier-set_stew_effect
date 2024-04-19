@@ -1,0 +1,2 @@
+# item_modifier-set_stew_effect
+item_modifierの1項目であるset_stew_effectに関するサンプルになります。
