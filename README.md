@@ -1,8 +1,7 @@
 # item_modifier-set_stew_effect
 item_modifierの1項目であるset_stew_effectに関するサンプルになります。
 
-~詳しくはブログ記事『[]()』を参考にしてください。~<br>
-現在執筆中
+詳しくはブログ記事『[【マイクラ】set_stew_effectで怪しげなシチューに効果付与【item_modifier】](https://natsumake.com/item_modifier-set_stew_effect/)』を参考にしてください。
 
 <h3>概要</h3>
 怪しげなシチューに対して、エフェクトを付与します。
